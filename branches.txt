@@ -4,7 +4,13 @@ create separate branches for each stage of development
 separate different end goals of your project
 create separate development path without overriding progress
 
-git checkout -b "name"
+git checkout -b "name"--> crear una branch
+get checkout "name" --> cambiar a alguna branch
 git branche ""
 git branch -a --> list branches
 git branch -d --> delete branches
+
+
+Merging branch
+
+git merge "name"  --> merge the especifided branch into the current branch
