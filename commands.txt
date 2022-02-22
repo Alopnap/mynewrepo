@@ -20,3 +20,7 @@ git commit -a ""
 git log  --> give you the story of the commits
 git checkout  ""  --> to change and see a commit
 
+git revert  --> regresa todos los cambios hechos en un commit
+git reset --> te devuelve de forma permanente
+git log --oneline
+git reset --hard
