@@ -1,0 +1,10 @@
+This will keep informations about the branches
+
+create separate branches for each stage of development
+separate different end goals of your project
+create separate development path without overriding progress
+
+git checkout -b "name"
+git branche ""
+git branch -a --> list branches
+git branch -d --> delete branches
