@@ -9,3 +9,7 @@ pull --> take information from the remote repository
 git pull origin 'nameofbranch' --> to take the information of just one branch
 
 rm -rf 'name'   --> to remove directories
+
+Personal access tokens (PATs)
+
+git push origin --delete 'namebranch'
