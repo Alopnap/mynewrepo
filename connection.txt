@@ -1,0 +1,11 @@
+git remote add origin "url" --> to connect
+git remote -v   --> to see if you are connected
+
+push and pull system
+push --> update remote repository
+pull --> take information from the remote repository 
+
+ 
+git pull origin 'nameofbranch' --> to take the information of just one branch
+
+rm -rf 'name'   --> to remove directories
