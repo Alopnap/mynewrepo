@@ -14,3 +14,6 @@ git branch -d --> delete branches
 Merging branch
 
 git merge "name"  --> merge the especifided branch into the current branch
+
+
+It let you work with great exponential growth
