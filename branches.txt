@@ -17,3 +17,5 @@ git merge "name"  --> merge the especifided branch into the current branch
 
 
 It let you work with great exponential growth
+
+merging only takes the last commit of the source branch
